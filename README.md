@@ -1,2 +1,2 @@
 # LeetCodeNotes
-LeetCode solutions in Java and Python3
+LeetCode solutions in Java and Python3.
